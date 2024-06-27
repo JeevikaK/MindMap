@@ -5,7 +5,7 @@ import { initializeApp } from "firebase/app";
 import {getAuth} from "firebase/auth"
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA5wmWnoRX8Q6ftDH6udq7AmQflNkrLIzk",
+  apiKey: "",
   authDomain: "mindmap-8fb1a.firebaseapp.com",
   projectId: "mindmap-8fb1a",
   storageBucket: "mindmap-8fb1a.appspot.com",
